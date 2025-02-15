@@ -16,7 +16,7 @@ const Feed = () => {
           maxResults: '50'
         },
         headers: {
-          'x-rapidapi-key': "75d63a043amsh4691e7c57fb6710p106be8jsnec042fada122",
+          'x-rapidapi-key': process.env.RAPID_API_KEY,
           'x-rapidapi-host': 'youtube-v31.p.rapidapi.com'
         }
     };
