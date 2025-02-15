@@ -1,7 +1,7 @@
 # Youtube-Clone
 A modern **YouTube Clone** built using **React.js** and **Material UI**, featuring seamless video streaming by fetching data from an external YouTube API.  
 
-🚀 **Live Demo:** [YouTube Clone](https://nlink.at/youtube_clone)  
+🚀 **Live Demo:** [YouTube Clone](https://cool-sprinkles-f300a5.netlify.app/)  
 
 ## 📌 Features  
 
